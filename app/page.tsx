@@ -14,7 +14,7 @@ export default function Home() {
       i'm currently an incoming second-year at the university of waterloo studying mathematical physics (bsc). besides my interest in math and physics, i also enjoy listening to music, cooking, and the occasional programming - its why i intend to minor in computing! this site is actually one of my newest projects (a work in progress).
     </li>
     <li>
-      proficient in <strong>python, java, racket, figma, autoCAD, adobe, canva, and sketchup</strong>, and always striving to learn new skills!
+      i'm proficient in <strong>python, java, racket, figma, autoCAD, adobe, canva, and sketchup</strong>, and always striving to learn new skills!
     </li>
   </ul>
       </section>
@@ -34,7 +34,7 @@ export default function Home() {
         <ul className="list-disc list-inside text-purple-950">
           <li>
             <span className="font-bold">undergraduate researcher</span> , york university (2025 - present)<br />
-            creating an AI timeline model under dr ____ for _____ using <strong>python</strong>. 
+            assisting in creating an AI model using <strong>python</strong>. 
           </li>
           <li>
           <span className="font-bold">team member</span> , waterloo rocketry (2024 - present)<br />
